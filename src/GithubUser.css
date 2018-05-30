@@ -1,1 +1,12 @@
-//PLEASE fill asap//
+.GithubUser{
+    margin-bottom: 16px;
+}
+
+.GithubUser img{
+    height: 200px;
+    border-radius: 50%;
+}
+
+.GithubUser h3{
+    color: #999;
+}

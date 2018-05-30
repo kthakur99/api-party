@@ -46,4 +46,4 @@ class Github extends Component {
   }
 }
 
-export default Github6
+export default Github
