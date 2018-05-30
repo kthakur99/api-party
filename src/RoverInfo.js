@@ -48,3 +48,4 @@ class RoverInfo extends Component {
     )
   }
 }
+export default RoverInfo
